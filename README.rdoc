@@ -1,5 +1,10 @@
 = Path
 
+<b>This project is retired.</b> In 2011 it was merged into
+{Ratch}[https://github.com/rubyworks/ratch], which carries its file
+shell on. The +path+ gem on RubyGems is now an unrelated library by
+another author. The code remains here for reference.
+
 * http://rubyworks.github.com/path
 
 
